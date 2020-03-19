@@ -1,0 +1,4 @@
+azure-eventhub==5.0.0
+google-cloud-storage==1.26.0
+kafka-python==2.0.1
+simplejson==3.17.0
